@@ -12,16 +12,12 @@
 	<meta property="og:title" content="<?=$title;?>" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="" />
-	<meta property="og:image:type" content="image/png" />
-	<meta property="og:image:width" content="1200" />
-	<meta property="og:image:height" content="600" />
 	<meta property="og:description" content="<?=$description;?>" />
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@_tEvEy">
 	<meta name="twitter:title" content="<?=$title;?>">
 	<meta name="twitter:description" content="<?=$description;?>">
-	<meta name="twitter:image" content="">
 
 	<meta name="application-name" content="<?=$title;?>"/>
 	<meta name="description" content="<?=$description;?>" />

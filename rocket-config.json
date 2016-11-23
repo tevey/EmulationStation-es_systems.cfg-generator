@@ -36,14 +36,6 @@
                 }
             ]
         },
-
-        {
-            "id": "images",
-            "items": [
-                "img"
-            ]
-        },
-
         {
             "id": "styles",
             "items": [
