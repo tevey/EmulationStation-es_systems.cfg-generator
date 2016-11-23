@@ -53,10 +53,12 @@
 		</div><br>
 		<button class="add-button">Add System</button>
 	</form>
-	<h3>Systems added:</h3>
+	<h3 class="added-systems-title">Systems added:</h3>
 	<ul class="added-systems">
 	</ul>
 	<button class="download-button">Download es_systems.cfg</button>
 	<p>Get more info about EmulationStation and download at <a href="http://emulationstation.org" target="_blank">emulationstation.org</a></p>
+	<br>
+	<a href="https://github.com/tevey/EmulationStation-es_systems.cfg-generator" target="_blank">GitHub Repo</a>
 </body>
 </html>

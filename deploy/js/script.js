@@ -68,6 +68,7 @@ function isDuplicate(name) {
 function addSystem(system) {
 
 	$('.download-button').css('display', 'block');
+	$('.added-systems-title').css('display', 'block');
 
 	if(!isDuplicate(system.name)) {
 		addedSystems.push(system);
