@@ -1,0 +1,66 @@
+@import "compass/css3/box-sizing"
+
+html
+	font-family: 'Lucida Grande', sans-serif
+	font-size: 14px
+	line-height: 16px
+	padding: 2rem
+
+	body
+		max-width: 650px
+
+		p
+			font-size: 1rem
+			line-height: 1.1rem
+			max-width: 90%
+			+box-sizing("border-box")
+
+		h1
+			font-size: 1.5rem
+			line-height: 1.5rem
+			margin-bottom: 1rem
+
+		.code
+			color: #c7254e
+			background: #f9f2f4
+			font-size: 0.9rem
+
+		form
+			margin-bottom: 0.5rem
+			width: 100%
+			+box-sizing("border-box")
+
+			select, input
+				font-size: 1rem
+				padding: 0.2rem
+				margin-bottom: 0.5rem
+				width: 90%
+				+box-sizing("border-box")
+
+			select
+				margin-top: 0.5rem
+
+			.help-button
+				display: inline-block
+				font-weight: bold
+				color: #c7254e
+				cursor: pointer
+
+			.help-content
+				padding-bottom: 0.5rem
+				display: none
+				width: 90%
+				+box-sizing("border-box")
+
+				ul
+					margin-left: 20px
+
+		.download-button
+			display: none
+			margin: 0.5rem 0rem
+
+		.added-systems
+			margin: 0.5rem 0rem
+
+			li
+				margin-left: 1.1rem

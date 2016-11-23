@@ -1,0 +1,312 @@
+{
+	"systems": [
+		{
+			"name": "3do",
+			"fullname": "Panasonic 3do",
+			"extension": ".iso",
+			"platform": "3do",
+			"theme": "3do"
+		},
+		{
+			"name": "amiga",
+			"fullname": "Amiga",
+			"extension": ".adf",
+			"platform": "amiga",
+			"theme": "amiga"
+		},
+		{
+			"name": "amstradcpc",
+			"fullname": "Amstrad CPC",
+			"extension": ".dsk .cpc",
+			"platform": "amstradcpc",
+			"theme": "amstradcpc"
+		},
+		{
+			"name": "apple2",
+			"fullname": "Apple II",
+			"extension": ".dsk",
+			"platform": "apple2",
+			"theme": "apple2"
+		},
+		{
+			"name": "atari800",
+			"fullname": "Atari 800",
+			"extension": ".a52 .bas .bin .xex .atr .xfd .dcm .atr.gz .xfd.gz",
+			"platform": "atari800",
+			"theme": "atari800"
+		},
+		{
+			"name": "atari2600",
+			"fullname": "Atari 2600",
+			"extension": ".bin .a26 .rom .zip .gz",
+			"platform": "atari2600",
+			"theme": "atari2600"
+		},
+		{
+			"name": "atari5200",
+			"fullname": "Atari 5200",
+			"extension": ".a52 .bas .bin .xex .atr .xfd .dcm .atr.gz .xfd.gz",
+			"platform": "atari5200",
+			"theme": "atari5200"
+		},
+		{
+			"name": "atari7800",
+			"fullname": "Atari 7800",
+			"extension": ".a78 .bin",
+			"platform": "atari7800",
+			"theme": "atari7800"
+		},
+		{
+			"name": "atarilynx",
+			"fullname": "Atari Lynx",
+			"extension": ".lnx",
+			"platform": "atarilynx",
+			"theme": "atarilynx"
+		},
+		{
+			"name": "atarist",
+			"fullname": "Atari ST",
+			"extension": ".st .stx .img .rom .raw .ipf .ctr",
+			"platform": "atarist",
+			"theme": "atarist"
+		},
+		{
+			"name": "atarijaguar",
+			"fullname": "Atari Jaguar",
+			"extension": ".j64 .jag",
+			"platform": "atarijaguar",
+			"theme": "atarijaguar"
+		},
+		{
+			"name": "colecovision",
+			"fullname": "Colecovision",
+			"extension": ".bin .col .rom .zip",
+			"platform": "colecovision",
+			"theme": "colecovision"
+		},
+		{
+			"name": "c64",
+			"fullname": "Commodore 64",
+			"extension": ".crt .d64 .g64 .t64 .tap .x64",
+			"platform": "c64",
+			"theme": "c64"
+		},
+		{
+			"name": "intellivision",
+			"fullname": "Intellivision",
+			"extension": ".int .bin",
+			"platform": "intellivision",
+			"theme": "intellivision"
+		},
+		{
+			"name": "macintosh",
+			"fullname": "Macintosh",
+			"extension": ".img .rom",
+			"platform": "macintosh",
+			"theme": "macintosh"
+		},
+		{
+			"name": "msx",
+			"fullname": "MSX",
+			"extension": ".rom .mx1 .mx2 .col .dsk",
+			"platform": "msx",
+			"theme": "msx"
+		},
+		{
+			"name": "neogeo",
+			"fullname": "Neo Geo",
+			"extension": ".zip",
+			"platform": "neogeo",
+			"theme": "neogeo"
+		},
+		{
+			"name": "ngp",
+			"fullname": "Neo Geo Pocket",
+			"extension": ".ngp",
+			"platform": "ngp",
+			"theme": "ngp"
+		},
+		{
+			"name": "ngpc",
+			"fullname": "Neo Geo Pocket Color",
+			"extension": ".ngc",
+			"platform": "ngpc",
+			"theme": "ngpc"
+		},
+		{
+			"name": "n64",
+			"fullname": "Nintendo 64",
+			"extension": ".z64 .n64 .v64",
+			"platform": "n64",
+			"theme": "n64"
+		},
+		{
+			"name": "nds",
+			"fullname": "Nintendo DS",
+			"extension": ".nds .bin",
+			"platform": "nds",
+			"theme": "nds"
+		},
+		{
+			"name": "nes",
+			"fullname": "Nintendo Entertainment System",
+			"extension": ".zip .nes .smc .sfc .fig .swc .mgd",
+			"platform": "nes",
+			"theme": "nes"
+		},
+		{
+			"name": "gb",
+			"fullname": "Game Boy",
+			"extension": ".gb",
+			"platform": "gb",
+			"theme": "gb"
+		},
+		{
+			"name": "gba",
+			"fullname": "Game Boy Advance",
+			"extension": ".gba",
+			"platform": "gba",
+			"theme": "gba"
+		},
+		{
+			"name": "gbc",
+			"fullname": "Game Boy Color",
+			"extension": ".gbc",
+			"platform": "gbc",
+			"theme": "gbc"
+		},
+		{
+			"name": "gc",
+			"fullname": "GameCube",
+			"extension": ".iso",
+			"platform": "gc",
+			"theme": "gc"
+		},
+		{
+			"name": "wii",
+			"fullname": "Wii",
+			"extension": ".iso",
+			"platform": "wii",
+			"theme": "wii"
+		},
+		{
+			"name": "pc",
+			"fullname": "PC",
+			"extension": ".com .sh .bat .exe",
+			"platform": "pc",
+			"theme": "pc"
+		},
+		{
+			"name": "sega32x",
+			"fullname": "Sega 32X",
+			"extension": ".32x .smd .bin .md",
+			"platform": "sega32x",
+			"theme": "sega32x"
+		},
+		{
+			"name": "segacd",
+			"fullname": "Sega CD",
+			"extension": ".cue .iso",
+			"platform": "segacd",
+			"theme": "segacd"
+		},
+		{
+			"name": "dreamcast",
+			"fullname": "Sega Dreamcast",
+			"extension": ".cdi .gdi",
+			"platform": "dreamcast",
+			"theme": "dreamcast"
+		},
+		{
+			"name": "gamegear",
+			"fullname": "Sega Game Gear",
+			"extension": ".gg",
+			"platform": "gamegear",
+			"theme": "gamegear"
+		},
+		{
+			"name": "genesis",
+			"fullname": "Sega Genesis",
+			"extension": ".smd .bin .gen .md .sg .zip",
+			"platform": "genesis",
+			"theme": "genesis"
+		},
+		{
+			"name": "mastersystem",
+			"fullname": "Sega Master System",
+			"extension": ".sms",
+			"platform": "mastersystem",
+			"theme": "mastersystem"
+		},
+		{
+			"name": "megadrive",
+			"fullname": "Sega Mega Drive",
+			"extension": ".smd .bin .gen .md .sg .zip",
+			"platform": "megadrive",
+			"theme": "megadrive"
+		},
+		{
+			"name": "saturn",
+			"fullname": "Sega Saturn",
+			"extension": ".bin .iso .mdf",
+			"platform": "saturn",
+			"theme": "saturn"
+		},
+		{
+			"name": "psx",
+			"fullname": "PlayStation",
+			"extension": ".cue .cbn .img .iso .m3u .mdf .pbp .toc .z .znx",
+			"platform": "psx",
+			"theme": "psx"
+		},
+		{
+			"name": "ps2",
+			"fullname": "PlayStation 2",
+			"extension": ".iso .img .bin .mdf .z .z2 .bz2 .dump .cso .ima .gz",
+			"platform": "ps2",
+			"theme": "ps2"
+		},
+		{
+			"name": "psp",
+			"fullname": "PSP",
+			"extension": ".cso .iso .pbp",
+			"platform": "psp",
+			"theme": "psp"
+		},
+		{
+			"name": "snes",
+			"fullname": "Super Nintendo Entertainment System",
+			"extension": ".zip .smc .sfc .fig .swc",
+			"platform": "snes",
+			"theme": "snes"
+		},
+		{
+			"name": "pcengine",
+			"fullname": "TurboGrafx-16",
+			"extension": ".pce",
+			"platform": "pcengine",
+			"theme": "pcengine"
+		},
+		{
+			"name": "wonderswan",
+			"fullname": "WonderSwan",
+			"extension": ".ws",
+			"platform": "wonderswan",
+			"theme": "wonderswan"
+		},
+		{
+			"name": "wonderswancolor",
+			"fullname": "WonderSwan Color",
+			"extension": ".wsc",
+			"platform": "wonderswancolor",
+			"theme": "wonderswancolor"
+		},
+		{
+			"name": "zxspectrum",
+			"fullname": "ZX Spectrum",
+			"extension": ".sna .szx .z80 .tap .tzx .gz .udi .mgt .img .trd .scl .dsk",
+			"platform": "zxspectrum",
+			"theme": "zxspectrum"
+		}
+	]
+}

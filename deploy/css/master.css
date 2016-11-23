@@ -1,0 +1,59 @@
+html {
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  padding: 2rem; }
+  html body {
+    max-width: 650px; }
+    html body p {
+      font-size: 1rem;
+      line-height: 1.1rem;
+      max-width: 90%;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box; }
+    html body h1 {
+      font-size: 1.5rem;
+      line-height: 1.5rem;
+      margin-bottom: 1rem; }
+    html body .code {
+      color: #c7254e;
+      background: #f9f2f4;
+      font-size: 0.9rem; }
+    html body form {
+      margin-bottom: 0.5rem;
+      width: 100%;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box; }
+      html body form select, html body form input {
+        font-size: 1rem;
+        padding: 0.2rem;
+        margin-bottom: 0.5rem;
+        width: 90%;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box; }
+      html body form select {
+        margin-top: 0.5rem; }
+      html body form .help-button {
+        display: inline-block;
+        font-weight: bold;
+        color: #c7254e;
+        cursor: pointer; }
+      html body form .help-content {
+        padding-bottom: 0.5rem;
+        display: none;
+        width: 90%;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box; }
+        html body form .help-content ul {
+          margin-left: 20px; }
+    html body .download-button {
+      display: none;
+      margin: 0.5rem 0rem; }
+    html body .added-systems {
+      margin: 0.5rem 0rem; }
+      html body .added-systems li {
+        margin-left: 1.1rem; }
