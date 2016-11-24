@@ -1,0 +1,28 @@
+{
+  "name": "emulationstation-generator",
+  "version": "1.0.0",
+  "description": "A tool for generating the es_systems.cfg file for EmulationStation",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevey/EmulationStation-es_systems.cfg-generator.git"
+  },
+  "keywords": [
+    "EmulationStation"
+  ],
+  "author": "Viktor René (@_tEvEy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tevey/EmulationStation-es_systems.cfg-generator/issues"
+  },
+  "devDependencies": {
+    "compass-importer": "^0.4.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "run-sequence": "^1.2.2"
+  }
+}

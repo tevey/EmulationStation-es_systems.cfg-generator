@@ -21,10 +21,10 @@
 
 	<meta name="application-name" content="<?=$title;?>"/>
 	<meta name="description" content="<?=$description;?>" />
-	<meta name="author" content="tevey (@_tEvEy)">
+	<meta name="author" content="Viktor René (@_tEvEy)">
 	<meta name="keywords" content="EmulationStation, rom, emulator"/>
 
-	<link rel="stylesheet" type="text/css" href="/css/reset.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/libraries.css"/>
 	<link rel="stylesheet" type="text/css" href="/css/master.css"/>
 	<script type="text/javascript" src="/js/libraries.js"></script>
 	<script type="text/javascript" src="/js/script.js"></script>
